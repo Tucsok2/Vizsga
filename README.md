@@ -1,2 +1,2 @@
 # Vizsga
-Adolf Hitler
+Adolf Hitler 卐
